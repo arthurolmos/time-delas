@@ -11,12 +11,16 @@ web-build/
 web-report/
 
 # TESTS
-/serverless
 /data
+/bkps
+
+# CONFIG
+firebase.js
 
 # macOS
 .DS_Store
 
+*.lock
 *.log
 .expo
 .expo-shared
